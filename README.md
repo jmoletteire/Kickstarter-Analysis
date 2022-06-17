@@ -2,10 +2,10 @@
   Using Excel to visualize Kickstarter campaign outcomes based on a number of criteria. Goal to become more familiar with both basic Excel techniques and more advanced   tools.
 
 ## Analysis and Challenges
-* Overview
-  * ![Theater_Outcomes_vs_Launch](./Resources/Theater_Outcomes_vs_Launch.png)
+### Overview
+  ![Theater_Outcomes_vs_Launch](./Resources/Theater_Outcomes_vs_Launch.png)
   * There are clear patterns in both sets of data. The image above shows outcome totals for each month of the year for all years in which data was collected for theater projects (2009-2017). This monthly aggregate indicates a seasonal trend for theater projects.
-  * ![Outcomes_vs_Goals](./Resources/Outcomes_vs_Goals.png)
+  ![Outcomes_vs_Goals](./Resources/Outcomes_vs_Goals.png)
   * Taking a look at project outcomes based on the amount of money they hoped to raise, there are some predictable trends, with positive correlations between higher goals and the percent of projects failed and canceled. 
 
 
