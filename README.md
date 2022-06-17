@@ -19,7 +19,7 @@
 ### Theater Outcomes by Launch Date
   The data collected seems to indicate a seasonal pattern both for success and for the number of projects. There is a sharp spike in the total number of projects between March and May, which gradually declines as the summer months bleed into fall. This spike can be seen most clearly in the number of successful campigns, but is evident in all three sets of outcome data. That said, with all three outcome totals rising we can assume the total number of campaigns is increasing. What is importnat though, is that although the total number of campaigns has increased, a greater percentage are successful from May to August (during the spike) as well. We know this because the difference between the number of successful campaigns and the number of failures/cancelations is much greater in these months than at any other point in the year, indicating an ideal time for theater campaigns.
   
-  A curious development is in October. There is a small spike in both successes and failures here, but the gap between the two narrows, which would indicate a greater percentage of failed projects that month.
+  A curious development is in October. There is a small spike in both successes and failures here, but the gap between the two narrows, which would indicate a greater percentage of failed projects that month. This may indicate that simply increasing the total number of campaigns does not guarantee greater success - which may depend more greatly on the time of year.
   
 ### Outcomes based on Goals
   
