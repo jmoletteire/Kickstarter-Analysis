@@ -1,5 +1,5 @@
 # An Analysis of Kickstarter Campaigns
-  Using Excel to visualize Kickstarter campaign outcomes based on a number of criteria. Goal to become more familiar with both basic Excel techniques and more advanced   tools.
+  Using Excel to visualize Kickstarter campaign outcomes based on a number of criteria.
 
 ## Analysis and Challenges
 ### Overview
