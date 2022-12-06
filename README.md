@@ -8,11 +8,11 @@
 
 
   ![Outcomes_vs_Goals](./Resources/Outcomes_vs_Goals.png)
-  * Taking a look at project outcomes based on the amount of money they hoped to raise, there are some predictable trends, with positive correlations between higher goals and the percent of projects failed and canceled. 
+  * Taking a look at project outcomes based on the amount of money they hoped to raise, there are some predictable trends, with positive correlations between higher goals and the percentage of projects failed and canceled. 
 
 
 ### Challenges
-  I had no hiccups when completing the project, but some aspects took longer than others. For example, filling in outcomes based on goal data was a bit tedious as I couldn't copy the formula across cells without adjusting dollar amount parameters (i.e., ">1000", ">5000", etc.), or across columns without adjusting outcome. Otherwise, I thought it was relatively straightforward with clear instructions. I could see COUNTIFS() and the concept of a function with multiple groups of parameters posing difficulty, but having experience with Excel and the use of formulas made it a little easier for me to implement.
+  I had no hiccups when completing the project, but some aspects took longer than others. For example, filling in outcomes based on goal data was a bit tedious as I couldn't copy the formula across cells without adjusting dollar amount parameters (i.e., ">1000", ">5000", etc.), or across columns without adjusting outcome. Otherwise, I thought it was relatively straightforward.
   
   
 ## Results
